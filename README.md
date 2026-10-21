@@ -322,6 +322,10 @@ After deployment, much of the monitoring, investigation, and alert-generation pr
 
 The result was a more scalable, consistent, and proactive approach to industrial condition monitoring.
 
+## Business Impact
+
+![Business Impact](./assets/business_impact.png)
+
 ---
 
 ## Confidentiality Notice
